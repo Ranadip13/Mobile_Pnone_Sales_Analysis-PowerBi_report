@@ -35,3 +35,5 @@ Page 2: Sales Analysis
 * Saga Falabella and Ripley recorded the lowest performance. They should consider focusing on distributing high-demand phones like those from Apple, LG, and Samsung.
 * Sales declined from October 2019 to December 2020, likely due to the COVID-19 pandemic. However, there was an upward trend in sales during 2021. 
 * In 2021, LG and Samsung significantly increased their sales, while Apple's sales did not grow despite their premium segment phones.
+
+Project Link: https://app.powerbi.com/groups/me/reports/544d5993-f70c-4c2b-b1e0-8cd704bef572/a97bf7bb91a7e03ce41e?experience=power-bi
