@@ -28,10 +28,10 @@ Page 2: Sales Analysis
 * Page Navigation: Enhances the report's interactivity, providing a better user experience.
 
 ### Insights:
-•	With the highest sales and profit, Apple emerged as the most profitable brand in the industry.
-•	Despite having the lowest sales, Huawei achieved the highest profit margin at 61%, nearly double that of Apple. Huawei should focus on marketing to boost sales.
-•	With the highest sales, Colombia has become the best market for mobile companies.
-•	Tottus achieved the highest sales and became the top profit-generating distributor.
-•	Saga Falabella and Ripley recorded the lowest performance. They should consider focusing on distributing high-demand phones like those from Apple, LG, and Samsung.
-•	Sales declined from October 2019 to December 2020, likely due to the COVID-19 pandemic. However, there was an upward trend in sales during 2021. 
-•	In 2021, LG and Samsung significantly increased their sales, while Apple's sales did not grow despite their premium segment phones.
+* With the highest sales and profit, Apple emerged as the most profitable brand in the industry.
+* Despite having the lowest sales, Huawei achieved the highest profit margin at 61%, nearly double that of Apple. Huawei should focus on marketing to boost sales.
+* With the highest sales, Colombia has become the best market for mobile companies.
+* Tottus achieved the highest sales and became the top profit-generating distributor.
+* Saga Falabella and Ripley recorded the lowest performance. They should consider focusing on distributing high-demand phones like those from Apple, LG, and Samsung.
+* Sales declined from October 2019 to December 2020, likely due to the COVID-19 pandemic. However, there was an upward trend in sales during 2021. 
+* In 2021, LG and Samsung significantly increased their sales, while Apple's sales did not grow despite their premium segment phones.
