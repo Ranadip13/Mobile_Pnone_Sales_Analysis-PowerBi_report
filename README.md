@@ -1,4 +1,4 @@
-# Mobile Sales Analysis PowerBi Rreport
+# Mobile Pnone Sales Analysis PowerBi Rreport
 This Mobile Phone Sales report is based on the FP20 Analysis Challenge. The aim is to explore business patterns in the sales data and summarize the findings into meaningful sales insights.
 
 ### Data Exploration and Validation:
